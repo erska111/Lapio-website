@@ -4,3 +4,28 @@
 li {color: HotPink; }
 .red {color: Red;}
 * { color: DarkRed; }
+
+.container1 {
+  background-color:Red;
+  width: 400px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: 20px;
+}
+.container2 {
+  background-color:Yellow;
+  width: 400px;
+  height: 200px;
+  position: absolute;
+  left: 410px;
+  top: 20px;
+}
+.container3 {
+  background-color: Green;
+  width: 400px;
+  height: 200px;
+  position: absolute;
+  left: 820px;
+  top: 20px;
+}
