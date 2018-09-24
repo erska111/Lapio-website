@@ -1,31 +1,46 @@
-.punainen { color: DarkRed;}
-.HotPink {color: HotPink;}
-.Sininen {color: Blue; }
-li {color: HotPink; }
-.red {color: Red;}
-* { color: DarkRed; }
 
 .container1 {
   background-color:Red;
+  border-style: solid;
+  line-height : 150px;
+  border-width: 20px;
+  text-transform: uppercase;
+  border-color: Green;
   width: 400px;
   height: 200px;
   position: absolute;
   left: 0px;
   top: 20px;
+  color: Blue;
+  text-align: center;
 }
 .container2 {
   background-color:Yellow;
   width: 400px;
   height: 200px;
+  border-style: solid;
+  line-height : 150px;
+  border-width: 20px;
+  border-color: Red;
+  text-transform: uppercase;
+  color: Blue;
   position: absolute;
-  left: 410px;
+  left: 450px;
   top: 20px;
+  text-align: center;
 }
 .container3 {
   background-color: Green;
+  border-style: solid;
+  line-height : 150px;
+  border-width: 20px;
+  border-color: Yellow;
+  text-transform: uppercase;
+  color: Blue;
   width: 400px;
   height: 200px;
   position: absolute;
-  left: 820px;
+  left: 900px;
   top: 20px;
+  text-align: center;
 }
